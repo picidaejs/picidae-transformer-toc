@@ -1,0 +1,20 @@
+{
+  "name": "picidae-transformer-toc",
+  "version": "1.0.0",
+  "description": "picidae-transformer-toc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imcuttle",
+    "picidae-transformer-toc"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "html-escape": "^2.0.0",
+    "mdast-util-toc": "^2.0.1",
+    "remark-slug": "^5.0.0"
+  }
+}
