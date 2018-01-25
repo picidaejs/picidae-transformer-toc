@@ -9,5 +9,5 @@
 | name | type | desc |
 | --- | -- | ---- |
 | maxDepth | number | max depth of toc, default 3 |
-| heading | string | heading title, default Table of Contents |
+| heading | string | heading title, default "Table of Contents" |
 | tight | boolean | Whether to compile list-items tightly, default false |
