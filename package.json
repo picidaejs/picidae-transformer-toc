@@ -1,6 +1,6 @@
 {
   "name": "picidae-transformer-toc",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "picidae-transformer-toc",
   "main": "index.js",
   "scripts": {
