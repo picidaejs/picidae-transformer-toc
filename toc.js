@@ -40,7 +40,8 @@ function toc(options) {
         'type': 'html',
         'value': '</div>'
       },
-      node.children.slice(result.endIndex)
+      // concat <TOC> children
+      node.children.slice(result.index)
     )
   }
 }
