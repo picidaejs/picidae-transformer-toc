@@ -9,6 +9,6 @@
 | name | type | desc |
 | --- | -- | ---- |
 | maxDepth | number | max depth of toc, default `5` |
-| test | string | any | matching text, case insensitive. default `"<TABLE_OF_CONTENTS>"` |
+| test | string | matching text, case insensitive. default `"<TABLE_OF_CONTENTS>"` |
 
 **NOTE**: If `test` equals `null` or `false`, toc will be generated on front markdown  
